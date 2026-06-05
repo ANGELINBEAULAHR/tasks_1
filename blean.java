@@ -1,4 +1,4 @@
-
+package tasks_1;
 public class blean {
     public static void main(String[] args){
         blean b = new blean();
